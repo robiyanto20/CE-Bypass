@@ -22,10 +22,9 @@
 <br>
 
 # Author
-- **SSimonada2007**
-    - [Github](https://github.com/SSimonada2007)
-    - [PayPal.me](https://paypal.me/simonpaypalpay)
+- **SmurfsCC**
+    - [Github](https://github.com/SmurfsCC)
 
-**Thanks to SSimonada2007 for this awesome tool.**
+**Thanks to SmurfsCC for this awesome tool.**
 
-Copyright (c) 2021 SSimonada2007
+Copyright (c) 2021 SmurfsCC
